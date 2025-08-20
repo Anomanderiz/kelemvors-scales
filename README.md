@@ -8,6 +8,8 @@ Balance D&D 5e boss fights by simulating entire combats, not just average DPR. G
 > *Design goal:* “Perilous but fair.” Median drama without coin-flip swing or endless grinds.
 
 ---
+<img width="1594" height="991" alt="image" src="https://github.com/user-attachments/assets/38983781-240d-4a7a-9050-8c6a3201e0af" />
+
 
 # Quick UI Tour
 
