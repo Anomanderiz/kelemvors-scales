@@ -9,7 +9,7 @@ Balance D&D 5e boss fights by simulating entire combats, not just average DPR. G
 
 ---
 <img width="1594" height="991" alt="image" src="https://github.com/user-attachments/assets/38983781-240d-4a7a-9050-8c6a3201e0af" />
-
+<img width="2207" height="1327" alt="image" src="https://github.com/user-attachments/assets/4ea078f8-897d-49b2-b692-55e85d428cc4" />
 
 # Quick UI Tour
 
