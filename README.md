@@ -7,7 +7,7 @@ Balance D&D 5e boss fights by simulating entire combats, not just average DPR. G
 
 ---
 
-## TL;DR for non-technical users
+## TL;DR
 
 - **Download & run (Windows):** grab the latest release, unzip, double-click `KelemvorsScales.exe`.
 - **Basic workflow (5 minutes):**
