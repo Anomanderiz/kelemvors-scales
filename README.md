@@ -7,7 +7,7 @@ Balance D&D 5e boss fights by simulating entire combats, not just average DPR. G
 
 ---
 
-Quick UI Tour
+##Quick UI Tour
 
 👥 Party & DPR
 
@@ -91,7 +91,7 @@ Spike heights ≈ how often fights end on that round.
 Bimodal shape → the fight swings between two regimes (e.g., “alpha-strike” vs “attrition”).
 Adjust kit/initiative/riders to smooth it.
 
-The math (lightly)
+##The math (lightly)
 
 Monte Carlo: simulate thousands of fights with dice randomness. Summarize outcomes (medians, percentiles, probabilities).
 
