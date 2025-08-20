@@ -9,7 +9,7 @@ Balance D&D 5e boss fights by simulating entire combats, not just average DPR. G
 
 ## Quick UI Tour
 
-👥 Party & DPR
+# 👥 Party & DPR
 
 Enter PCs’ AC, HP, and save bonuses (STR/DEX/CON/INT/WIS/CHA).
 
