@@ -7,7 +7,7 @@ Balance D&D 5e boss fights by simulating entire combats, not just average DPR. G
 
 ---
 
-##Quick UI Tour
+## Quick UI Tour
 
 👥 Party & DPR
 
