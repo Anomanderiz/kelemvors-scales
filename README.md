@@ -1,3 +1,5 @@
+<img width="500" height="500" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/58770abf-07a2-4e51-ac7b-3ad82d6d8aaa" />
+
 # Kelemvor’s Scales
 **Encounter Monte Carlo + Auto-Tune (Crunchy Crits)**
 
