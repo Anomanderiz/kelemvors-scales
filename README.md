@@ -7,9 +7,9 @@ Balance D&D 5e boss fights by simulating entire combats, not just average DPR. G
 
 ---
 
-## Quick UI Tour
+# Quick UI Tour
 
-# 👥 Party & DPR
+## 👥 Party & DPR
 
 Enter PCs’ AC, HP, and save bonuses (STR/DEX/CON/INT/WIS/CHA).
 
@@ -19,7 +19,7 @@ Manual Effective DPR (enter your own per-round average)
 
 Nova→Effective (enter “Nova DPR”, attack bonus, target AC, crit ratio, uptime)
 
-🧰 Boss Kit
+## 🧰 Boss Kit
 
 Add each attack: Type (attack/save), to-hit or DC, damage dice, uses/round, melee flag.
 
@@ -27,19 +27,19 @@ Optional: Lair (avg dmg, #targets, cadence), Recharge (e.g., 5-6, avg dmg, #targ
 
 Rider: on-hit effect that grants advantage next round or reduces target AC; duration in rounds.
 
-📈 Deterministic DPR
+## 📈 Deterministic DPR
 
 Fast, average-based snapshot of boss damage versus each PC.
 
-⏳ Boss TTD
+## ⏳ Boss TTD
 
 Computes time to boss defeat from total incoming effective DPR, resistance, and regen.
 
-🎯 Boss→PC MC
+## 🎯 Boss→PC MC
 
 Monte Carlo of boss damage into a single PC over N rounds (useful for burst safety checks).
 
-⚔️ Encounter MC
+## ⚔️ Encounter MC
 
 Full fight simulation with Trials, Max Rounds, Initiative, Party DPR CV, and Use Nova→Effective DPR toggle.
 
@@ -91,7 +91,7 @@ Spike heights ≈ how often fights end on that round.
 Bimodal shape → the fight swings between two regimes (e.g., “alpha-strike” vs “attrition”).
 Adjust kit/initiative/riders to smooth it.
 
-##The math (lightly)
+## The math (lightly)
 
 Monte Carlo: simulate thousands of fights with dice randomness. Summarize outcomes (medians, percentiles, probabilities).
 
